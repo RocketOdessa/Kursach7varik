@@ -1,0 +1,13 @@
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\obj\Debug\Kursach7Variant.csprojAssemblyReference.cache
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\obj\Debug\Kursach7Variant.Form1.resources
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\obj\Debug\Kursach7Variant.Properties.Resources.resources
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\obj\Debug\Kursach7Variant.csproj.GenerateResource.cache
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\obj\Debug\Kursach7Variant.csproj.CoreCompileInputs.cache
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\bin\Debug\Kursach7Variant.exe.config
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\bin\Debug\Kursach7Variant.exe
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\bin\Debug\Kursach7Variant.pdb
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\bin\Debug\ConcreteModel.dll
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\bin\Debug\ConcreteModel.pdb
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\obj\Debug\Kursach7Variant.csproj.CopyComplete
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\obj\Debug\Kursach7Variant.exe
+D:\КУРСАЧИ НА ЗАКАЗ\Kursach7Variant\Kursach7Variant\obj\Debug\Kursach7Variant.pdb
